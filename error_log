@@ -1,0 +1,14 @@
+[17-Jan-2019 06:47:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[17-Jan-2019 06:48:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[17-Jan-2019 06:56:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[17-Jan-2019 06:58:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[17-Jan-2019 06:58:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[17-Jan-2019 06:59:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/spancqrw/public_html/developerstesting.com/Laundry/index.php on line 2
+[18-Jan-2019 13:17:48 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:22:27 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:24:26 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:26:10 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:26:56 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:28:34 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:28:45 Asia/Kolkata] PHP Fatal error:  Call to a member function Mylogin() on null in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 23
+[18-Jan-2019 13:59:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/spancqrw/public_html/developerstesting.com/Laundry/application/controllers/Login.php on line 27
